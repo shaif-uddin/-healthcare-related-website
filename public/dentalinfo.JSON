@@ -1,0 +1,126 @@
+{
+    "Doctors": [
+        {
+            "key": "1",
+            "doctors": "Mark Wilson",
+            "img": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "picture": "https://randomuser.me/api/portraits/men/0.jpg"
+        },
+        {
+            "key": "2",
+            "doctors": "Jessica",
+            "img": "https://images.pexels.com/photos/3194518/pexels-photo-3194518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "picture": "https://randomuser.me/api/portraits/women/0.jpg"
+        },
+        {
+            "key": "3",
+            "doctors": "Catherine",
+            "img": "https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "picture": "https://randomuser.me/api/portraits/women/1.jpg"
+        },
+        {
+            "key": "4",
+            "doctors": "Mark Wilson",
+            "img": "https://images.pexels.com/photos/61129/pexels-photo-61129.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "picture": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+            "key": "5",
+            "doctors": "Jessica",
+            "img": "https://images.pexels.com/photos/3153201/pexels-photo-3153201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "picture": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+            "key": "6",
+            "doctors": "Jackson",
+            "img": "https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "picture": "https://randomuser.me/api/portraits/men/4.jpg"
+        },
+        {
+            "key": "7",
+            "doctors": "Camila",
+            "img": "https://images.pexels.com/photos/5324936/pexels-photo-5324936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "picture": "https://randomuser.me/api/portraits/women/5.jpg"
+        },
+        {
+            "key": "13",
+            "doctors": "Barbie",
+            "img": "https://picsum.photos/300/233",
+            "picture": "https://randomuser.me/api/portraits/men/6.jpg"
+        },
+        {
+            "key": "8",
+            "doctors": "Andrio",
+            "img": "https://picsum.photos/300/233",
+            "picture": "https://randomuser.me/api/portraits/men/7.jpg"
+        },
+        {
+            "key": "9",
+            "doctors": "Gamble",
+            "img": "https://picsum.photos/300/233",
+            "picture": "https://randomuser.me/api/portraits/men/8.jpg"
+        },
+        {
+            "key": "10",
+            "doctors": "Joseph Phillips",
+            "img": "https://picsum.photos/300/233",
+            "picture": "https://randomuser.me/api/portraits/men/9.jpg"
+        },
+        {
+            "key": "11",
+            "doctors": "Chris Croft",
+            "img": "https://picsum.photos/300/233",
+            "picture": "https://randomuser.me/api/portraits/men/10.jpg"
+        },
+        {
+            "key": "12",
+            "doctors": "Leila Bulling Towne",
+            "img": "https://picsum.photos/300/233",
+            "picture": "https://randomuser.me/api/portraits/women/11.jpg"
+        }
+    ],
+    "Services": [
+        {
+            "id": 101,
+            "service_image": "https://i.ibb.co/rfNmZmw/CK-Dental-at-the-Nuffield-Chesterfield-Hospital-in-Bristol-December-2013-Photographer-Freia-Turland.jpg",
+            "title": "Veneers",
+            "info": "Custom veneers are ultra-thin and shaded to look completely natural. We partner with the best local dental labs to create veneers that are just amazing.",
+            "description": []
+        },
+        {
+            "id": 102,
+            "service_image": "https://i.ibb.co/HGd0Mbn/gallery-02.png",
+            "title": "Same-Day Crowns",
+            "info": "You can get a natural tooth-colored crown in just one appointment. No goopy impressions, no finicky temporary crown, and no need for a trip back to the dentist.",
+            "description": []
+        },
+        {
+            "id": 103,
+            "service_image": "https://i.ibb.co/4NRKzdT/gallery-04.jpg",
+            "title": "Implants",
+            "info": "Missing teeth can make it hard for you to eat your favorite foods or smile without feeling self-conscious. Implants are the best way to fix missing teeth forever.",
+            "description": []
+        },
+        {
+            "id": 104,
+            "service_image": "https://i.ibb.co/D5b5bMD/gallery-05.jpg",
+            "title": "Root Canals",
+            "info": "We get it. Nobody likes the idea of possibly needing a root canal. But here’s what our dentists want you to know",
+            "description": []
+        },
+        {
+            "id": 105,
+            "service_image": "https://i.ibb.co/j40rpxL/gallery-06.jpg",
+            "title": "Dental Bridges",
+            "info": "Bridges are fixed restorations that replace one or two missing teeth at one time. Each bridge spans the open space of the missing tooth",
+            "description": []
+        },
+        {
+            "id": 106,
+            "service_image": "https://i.ibb.co/qdC9MPm/download.jpg",
+            "title": "Teeth Whitening",
+            "info": "Professional one-hour whitening uses prescription grade whitening gel and a bright light to accelerate",
+            "description": []
+        }
+    ]
+}

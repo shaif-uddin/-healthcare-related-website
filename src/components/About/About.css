@@ -1,0 +1,4 @@
+.about-list li {
+  list-style-type: disc !important;
+  text-align: left;
+}
