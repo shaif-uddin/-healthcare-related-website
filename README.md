@@ -1,6 +1,6 @@
 # Assignment 10: Dental Health Care Site
 
-git hub : https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-shaif-uddin.git
+git hub : https://github.com/shaif-uddin/-healthcare-related-website
 <br/>
 weblink: https://stupefied-hermann-e5d31b.netlify.app/
 
