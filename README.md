@@ -1,4 +1,4 @@
-# Assignment 10: Dental Health Care Site
+# Dental Health Care Site
 
 git hub : https://github.com/shaif-uddin/-healthcare-related-website
 <br/>
